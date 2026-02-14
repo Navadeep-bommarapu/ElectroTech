@@ -31,7 +31,7 @@ Cloning the repository and running the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/Navadeep-bommarapu/Digital-Catalogue.git
+git clone https://github.com/Navadeep-bommarapu/ElectroTech.git
 
 # Navigate into the directory
 cd Digital-Catalogue
