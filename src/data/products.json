@@ -1,0 +1,106 @@
+[
+    {
+        "id": 1,
+        "name": "Zenith X1 Laptop",
+        "category": "Laptops",
+        "price": 1299,
+        "description": "Ultra-slim styling with powerful performance for professionals.",
+        "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&q=80&w=800",
+        "specs": [
+            "16GB RAM",
+            "512GB SSD",
+            "M2 Chip"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Nova Pro Phone",
+        "category": "Phones",
+        "price": 999,
+        "description": "The latest in mobile technology with a stunning OLED display.",
+        "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&q=80&w=800",
+        "specs": [
+            "6.7 inch Display",
+            "128GB Storage",
+            "50MP Camera"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Chronos Watch",
+        "category": "Watches",
+        "price": 299,
+        "description": "Smart health tracking in a classic timepiece design.",
+        "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&q=80&w=800",
+        "specs": [
+            "Heart Rate Monitor",
+            "GPS",
+            "Water Resistant"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Aero Headphones",
+        "category": "Headphones",
+        "price": 199,
+        "description": "Immersive sound with industry-leading noise cancellation.",
+        "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&q=80&w=800",
+        "specs": [
+            "Active Noise Cuncelling",
+            "30hr Battery",
+            "Bluetooth 5.2"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Lumix Camera",
+        "category": "Cameras",
+        "price": 1499,
+        "description": "Professional grade mirrorless camera for capturing every moment.",
+        "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&q=80&w=800",
+        "specs": [
+            "24MP Sensor",
+            "4K Video",
+            "IBIS"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Ergo Mouse",
+        "category": "Accessories",
+        "price": 49,
+        "description": "Ergonomic design for all-day comfort and precision.",
+        "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?auto=format&fit=crop&q=80&w=800",
+        "specs": [
+            "Wireless",
+            "DPI Switch",
+            "Long Battery Life"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Titan Gaming Laptop",
+        "category": "Laptops",
+        "price": 2499,
+        "description": "Unleash ultimate gaming power with the Titan series.",
+        "image": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?auto=format&fit=crop&q=80&w=800",
+        "specs": [
+            "RTX 4080",
+            "32GB RAM",
+            "1TB SSD"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Pixel Buds",
+        "category": "Headphones",
+        "price": 129,
+        "description": "Crystal clear audio in a compact, true wireless design.",
+        "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&q=80&w=800",
+        "specs": [
+            "Wireless Charging",
+            "Water Resistant",
+            "Touch Controls"
+        ]
+    }
+]
